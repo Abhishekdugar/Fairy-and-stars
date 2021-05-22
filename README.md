@@ -1,2 +1,1 @@
-# Fairy-and-stars
-Fairy and stars gravity
+# Fairy_and_Star
